@@ -29,10 +29,15 @@ Bitcoin Stamps are a protocol for embedding data directly in Bitcoin transaction
 | [**src-721**](https://github.com/stampchain-io/src-721) | SRC-721 — Non-fungible token standard for Stamps |
 | [**Glyphs**](https://github.com/stampchain-io/Glyphs) | Fungible token meta-protocol built on Counterparty |
 
-### Documentation
+### Documentation & Governance
 
-- [API Documentation](https://stampchain.io/docs) — OpenAPI/Swagger reference
-- [stampchain.io](https://stampchain.io) — Explorer, minting tools, and community hub
+| Resource | Link |
+|----------|------|
+| Technical Whitepaper | [bitcoinstamps.xyz/en/whitepaper](https://bitcoinstamps.xyz/en/whitepaper/) · [Source](https://github.com/stampchain-io/btc_stamps/tree/dev/docs/whitepaper) |
+| SIP Roadmap & Registry | [bitcoinstamps.xyz/en/protocols/sips](https://bitcoinstamps.xyz/en/protocols/sips) |
+| SIP Process (SIP-0000) | [GitHub Issue #686](https://github.com/stampchain-io/btc_stamps/issues/686) |
+| API Documentation | [stampchain.io/docs](https://stampchain.io/docs) — OpenAPI/Swagger reference |
+| Protocol Documentation | [bitcoinstamps.xyz](https://bitcoinstamps.xyz) — Guides, tutorials, and protocol specs |
 
 ### Prominent Users of the Bitcoin Stamps Indexer & API
 
