@@ -1,13 +1,18 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/stampchain-io/.github/main/profile/assets/bitcoinstamps-banner-github.png" alt="Bitcoin Stamps">
-</p>
-  
-[![Docs](https://img.shields.io/badge/docs-bitcoinstamps.xyz-F7931A?logo=bitcoin&logoColor=white)](https://bitcoinstamps.xyz)
-[![Explorer](https://img.shields.io/badge/explorer-stampchain.io-F7931A?logo=bitcoin&logoColor=white)](https://stampchain.io)
-[![API Docs](https://img.shields.io/badge/API-OpenAPI%2FSwagger-4c8dbf)](https://stampchain.io/docs)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/stampchain-io/.github/main/profile/assets/bitcoinstamps-github-hero.png" alt="Bitcoin Stamps">
+
+### Bitcoin Stamps
+#### Unprunable data storage on Bitcoin's UTXO set. Permanent by design.
+##
+&nbsp;  
+[![Explorer](https://img.shields.io/badge/explorer-stampchain.io-F7931A?logo=bitcoin&logoColor=white)](https://stampchain.io)&nbsp;&nbsp;
+[![Docs](https://img.shields.io/badge/docs-bitcoinstamps.xyz-F7931A?logo=bitcoin&logoColor=white)](https://bitcoinstamps.xyz)&nbsp;&nbsp;
+[![API Docs](https://img.shields.io/badge/API-OpenAPI%2FSwagger-4c8dbf)](https://stampchain.io/docs)&nbsp;&nbsp;
 [![Telegram](https://img.shields.io/badge/community-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/BitcoinStamps)
 
-### Unprunable data storage on Bitcoin's UTXO set. Permanent by design.
+</div>
+
+## 
 
 Bitcoin Stamps embed data directly in Bitcoin transactions using bare multisig outputs, storing it in the UTXO set where node operators cannot prune it. Every stamp is a permanent on-chain artifact, secured by Bitcoin itself with no off-chain dependencies.
 
