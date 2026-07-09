@@ -20,6 +20,7 @@
 &nbsp;
 
 ## 📋 Overview
+
 Bitcoin Stamps embed data directly in Bitcoin transactions using bare multisig outputs, storing it in the UTXO set where node operators cannot prune it. Every stamp is a permanent on-chain artifact, secured by Bitcoin itself with no off-chain dependencies.
 
 The protocol was created by [mikeinspace](https://x.com/mikeinspace), with co-founders Arwyn and Reinamora. The community mascot is KEVIN, the first SRC-20 token.
@@ -73,6 +74,8 @@ The protocol was created by [mikeinspace](https://x.com/mikeinspace), with co-fo
 
 [KuCoin](https://x.com/kucoincom) · [SuperEx](https://x.com/SuperExet) · [OpenStamp](https://x.com/btcOpenStamp)
 
+&nbsp;
+
 ---
 
 <div align="center">
@@ -80,3 +83,4 @@ The protocol was created by [mikeinspace](https://x.com/mikeinspace), with co-fo
 Built with Bitcoin 🧡 Permanent by design
 
 </div>
+
